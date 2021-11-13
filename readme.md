@@ -5,10 +5,7 @@ and understand how to make a simple game.
 
 I made a rocket game. There are rockets launched from the left side of the screen and a shield on the right side than can move up or down. You must block the rockets with the sheild using the arrow up and down keys before the rockets hit the right side of the screen.
 
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/YJEiaZcnDIM)
 
 # Development Environment
 
